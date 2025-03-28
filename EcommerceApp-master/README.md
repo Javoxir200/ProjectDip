@@ -1,34 +1,33 @@
-# Ecommerce Application - Java J2EE
+# Приложение для электронной коммерции - Java J2EE
 
-### Take a look at this Application
-url: https://swapnilbamble1438.github.io/EcommerceApplication/
+### Взгляните на это приложение
 
-### It is Java J2EE Application. Build in Eclipse IDE using Maven.
-## It is an Online Electronic Shopping Application. 
+### Это приложение Java J2EE. Выполните сборку в Eclipse IDE с помощью Maven.
+## Это приложение для электронных покупок в Интернете.
 
-### Application Features:
-- It shows the working example of how Online Shopping Websites works.
--   Where User can add product to cart, user can register,login,logout or buy product. and Admin can Add new Products to items list and can manage the Customers.
+### Особенности приложения
+- В нем показан рабочий пример того, как работают веб-сайты интернет-магазинов.
+-   Где Пользователь может добавить товар в корзину, Пользователь может зарегистрироваться, войти, выйти из системы или купить товар. а Администратор может добавлять новые Продукты в список товаров и может управлять Клиентами.
 
-### Technology used in this Project: 
-- i) Java: all Backend logic has been written in java.
-- ii) HTML,CSS and Bootstrap: designing page layout.
-- iii) JSP & Javascript: all the front end logic has been written in jsp and javascript. 
-- iv) SQLite: SQLite database has been used as database. 
-- v) Tomcat: project will be run over the tomcat server.
-- vi) Maven: Maven is used for getting required jar files.
+### Технологии, использованные в данном проекте:
+- i) Java: вся логика бэкенда была написана на java.
+- ii) HTML, CSS и Bootstrap: разработка макета страницы.
+- iii) JSP и Javascript: вся логика фронтенда была написана на jsp и javascript. 
+- iv) SQLite: База данных SQLite использовалась в качестве базы данных.
+- v) Tomcat: проект будет запущен через сервер tomcat.
+- vi) Maven: Maven используется для получения необходимых jar-файлов.
 
-### Software And Tools Required:
+### Необходимое программное обеспечение и инструменты:
 - Java JDK 8+
 - Eclipse EE
 - Apache Maven
 - Tomcat v8.0+
-- SQLite Tools (Online or Offline Tool)
+- Инструменты SQLite (онлайн или офлайн инструменты)
 
 
 
 
-### Some Screenshots of this Project:
+### Некоторые скриншоты этого проекта:
 ![Home Page](a1.png)
 ==================================================================================================================================================================
 ![Home Page](a1ii.png)
